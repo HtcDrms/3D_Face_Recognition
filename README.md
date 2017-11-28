@@ -1,4 +1,4 @@
-# 3D_Face_Recognition
+# 3D Face Recognition using Generalized Multidimensional Scaling
 
 Testing data:
 1) 12 3D facial surface meshes (2 females, 2 males; 3 surfaces each subject) with feature
